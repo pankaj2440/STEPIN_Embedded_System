@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1631728656 source:e:\task\embedded_project\activity_1.c
+	"Activity_1.h"
+
+1631727622 e:\task\embedded_project\activity_1.h
+	<avr/io.h>
+
+1631727240 source:e:\task\embedded_project\activity_2.c
+	"Activity_2.h"
+
+1631727618 e:\task\embedded_project\activity_2.h
+	<avr/io.h>
+
+1631728839 source:e:\task\embedded_project\activity_3.c
+	"Activity_3.h"
+	<avr/io.h>
+	<util/delay.h>
+
+1631727599 e:\task\embedded_project\activity_3.h
+	<avr/io.h>
+
+1631727745 source:e:\task\embedded_project\activity_4.c
+	<avr/io.h>
+	"Activity_4.h"
+
+1631727592 e:\task\embedded_project\activity_4.h
+	<avr/io.h>
+
+1631724875 source:e:\task\embedded_project\fuse.c
+	<avr/io.h>
+
+1631732024 source:e:\task\embedded_project\main.c
+	<avr/io.h>
+	<util/delay.h>
+	"Activity_1.h"
+	"Activity_2.h"
+	"Activity_3.h"
+	"Activity_Final.h"
+
+1631732147 e:\task\embedded_project\activity_final.h
+	<avr/io.h>
+
