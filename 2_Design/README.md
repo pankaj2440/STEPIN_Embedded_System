@@ -1,10 +1,4 @@
+## flow diagram
 
 
-## Folder Structure
-Folder             | Description
--------------------| -----------------------------------------
-`1_Requirements`   | Documents detailing requirements and research
-`2_Design`         | Documents specifying design details
-`3_Implementation` | All code and documentation
-`4_Test_plan`      | Documents with test plans and procedures
-
+[Flow diagram.pdf](https://github.com/pankaj2440/STEPIN_Embedded_System/files/7175405/Flow.diagram.pdf)
