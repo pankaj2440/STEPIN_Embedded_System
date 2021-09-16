@@ -27,7 +27,7 @@ click url for Visit:
 
  Code Quality |[Git Inspector](using github.io option)
  ---------------|--------------
-( https://www.code-inspector.com/project/28784/score/svg ) | ( https://www.code-inspector.com/project/28784/status/svg )
+![code Quality](https://www.code-inspector.com/project/28784/score/svg) | ![Git Inspector]( https://www.code-inspector.com/project/28784/status/svg )
 
 
 
