@@ -1,4 +1,4 @@
-# Passenger-controlled car seats allow heated by using switch
+# Passenger-controlled car seats allow heated by using heater
 
 ## Introducation
    
