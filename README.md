@@ -25,9 +25,9 @@ Folder             | Description
 
 click url for Visit: 
 
- Code Quality |[Git Inspector](using github.io option)
- ---------------|--------------
-![code Quality](https://www.code-inspector.com/project/28784/score/svg) | ![Git Inspector]( https://www.code-inspector.com/project/28784/status/svg )
+ Build |Code Quality |[Git Inspector](using github.io option)
+ ---------|---------------|--------------
+ [![CI](https://github.com/pankaj2440/STEPIN_Embedded_System/actions/workflows/main.yml/badge.svg)](https://github.com/pankaj2440/STEPIN_Embedded_System/actions/workflows/main.yml) | ![code Quality](https://www.code-inspector.com/project/28784/score/svg) | ![Git Inspector]( https://www.code-inspector.com/project/28784/status/svg )
 
 
 
