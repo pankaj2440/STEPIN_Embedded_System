@@ -1,4 +1,4 @@
-# Climate-controlled car seats allow cool or heated by using switch
+# Passenger-controlled car seats allow heated by using switch
 
 ## Introducation
    
